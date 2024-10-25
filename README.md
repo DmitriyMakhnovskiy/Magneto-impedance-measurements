@@ -1,5 +1,5 @@
 # Magneto-impedance_measurements
-Measurement of magneto-impedance in ferromagnetic wires subjected to magnetic field or tensile stress
+Measuring magneto-impedance in ferromagnetic wires subjected to external stimuli such as magnetic field, tensile stress, and temperature
 
 See the report in the file "Report_Multi-stage calibration for impedance measurements.pdf". 
 
