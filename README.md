@@ -9,8 +9,8 @@ This project focuses on measuring surface impedance in ferromagnetic wires, a cr
 
 KEY CONTRIBUTIONS
 
-Broadband Measurement Technique: Establishes a method for accurate impedance measurements up to 15 GHz, crucial for analyzing microwire-based composites.
+  Broadband Measurement Technique: Establishes a method for accurate impedance measurements up to 15 GHz, crucial for analyzing microwire-based composites.
 
-PCB Calibration Cells: Develops PCB cells for precise impedance measurements, accounting for factors like temperature and mechanical stress.
+  PCB Calibration Cells: Develops PCB cells for precise impedance measurements, accounting for factors like temperature and mechanical stress.
 
-Numerical Simulation Compatibility: Enables use of experimentally derived impedance values in computational simulations, supporting advanced material design.
+  Numerical Simulation Compatibility: Enables use of experimentally derived impedance values in computational simulations, supporting advanced material design.
