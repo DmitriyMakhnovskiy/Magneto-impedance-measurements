@@ -5,7 +5,7 @@ See the report in the file "Report_Multi-stage calibration for impedance measure
 
 SUMMARY
 
-This project focuses on measuring surface impedance in ferromagnetic wires, a crucial aspect in developing materials with specific microwave properties for applications in sensors and metamaterials. We present a broadband impedance measurement technique operational up to 15 GHz, designed to simplify the characterization of ferromagnetic microwires, which exhibit unique magnetic and conductive behaviors influencing electromagnetic scattering. We develop customized printed circuit board (PCB) cells and a multi-stage calibration process that enables flexibility in testing under different external stimuli, such as magnetic fields, temperature, and mechanical stress.
+This project focuses on measuring surface impedance in ferromagnetic wires, a crucial aspect in developing materials with specific microwave properties for applications in sensors and metamaterials. We present a broadband impedance measurement technique operational up to 15 GHz, designed to simplify the characterization of ferromagnetic microwires, which exhibit unique magnetic and conductive behaviors influencing electromagnetic scattering. We develop customized printed circuit board cells (see the folder Rogers' PCB cells) and a multi-stage calibration process that enables flexibility in testing under different external stimuli, such as magnetic fields, temperature, and mechanical stress.
 
 KEY CONTRIBUTIONS
 
